@@ -1,6 +1,6 @@
 # Chinook-Business-Analysis
 
-# Answering Business Questions Using SQL with Chinook data
+### Answering Business Questions Using SQL with Chinook data
 
 This project revolves around answering business cases with chinook data. 
 
@@ -9,7 +9,7 @@ Chinook data is a combination of different play stores involving artist play tra
 Analysisng  the data contained in chinook database, which is made of 11 different data but related tables
 
 
-# Selecting Album to purchase.
+### Selecting Album to purchase.
 
 Description:
 
@@ -30,7 +30,7 @@ Business Case:
 which genres sells the best in the USA?
 
 
-# Analyzing Employee Sales performance
+### Analyzing Employee Sales performance
 
 This business analysis involves showing sales agent performance which is as well known as analyzing employee sales performance.
 
@@ -40,18 +40,17 @@ The end product of the project is to see if the any employee is performing bette
 
 
 
-# Analyzing Sales by Country
+### Analyzing Sales by Country
 
 In this analysis, i will be interested in the sales data for customers from each country.
 
 My query will collate the data on purchase from different countries.
 
-# Analyzing  Album vs Individual tracks
+### Analyzing  Album vs Individual tracks
+### Analyzing  Album vs Individual tracks
 
-# Analyzing  Album vs Individual tracks
+### Purchased and Non-purchased tracks
 
-# Purchased and Non-purchased tracks
+### Tracks sold vs available sold tracks
 
-# Tracks sold vs available sold tracks
-
-# Protected vs Non-protected media-types
+### Protected vs Non-protected media-types
